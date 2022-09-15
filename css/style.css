@@ -20,6 +20,7 @@ h1{
 }
 
 .blocco {
+    min-width: 300px;
     width: calc(33.3% - 2rem);
     color: white;
     background-color: black;
